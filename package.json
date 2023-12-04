@@ -1,0 +1,16 @@
+{
+  "name": "ol-example",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^4.0.4"
+  },
+  "dependencies": {
+    "geos-wasm": "^1.2.1",
+    "ol": "latest"
+  }
+}
